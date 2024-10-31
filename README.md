@@ -1,4 +1,4 @@
-# Prebootcamp-DS-BIT
+# Fundamentos de IA
 
 ## Descripción
 Este repositorio contiene materiales relacionados con el prebootcamp en Ciencia de Datos organizado por BIT.
